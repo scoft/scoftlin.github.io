@@ -26,12 +26,6 @@ highlighter:  rouge
 lsi:          false
 excerpt_separator: "\n\n"
 
-# Serving
-detach:       false
-port:         4000
-host:         127.0.0.1
-baseurl:      "" # does not include hostname
-
 # Outputting
 permalink:     date
 paginate_path: /page:num
@@ -107,26 +101,4 @@ author:
 #      url: http://javabynataraj.blogspot.in/
 #    message: About Java
 
-#googleAnaly, your id link UA-12345678-X
-googleAnaly:
-  config: false
-  id: UA-58146229-1
-
-#baidu tongji
-baiduTongji:
-  config: true
-  id: c12b560f0372d5995701449b9eac606c
-
-#comment config
-disqus:
-  config: false
-  id: piznblog
-
-duoshuo:
-  config: true
-  id: 9leg
-
-#baidu share config
-baiduShare:
-  config: true
-  
+#googleAnaly, your id link UA-12345678-
