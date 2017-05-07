@@ -39,12 +39,12 @@ timezone:      null
 
 
 #Site config
-title: 9leg
-description: java,scala
-keywords: java,scala
-url: http://9leg.com
-feed: /atom.xml
-favicon: /images/shortcut.jpg
+#title: 9leg
+#description: java,scala
+#keywords: java,scala
+#url: http://9leg.com
+#feed: /atom.xml
+#favicon: /images/shortcut.jpg
 
 #Nav config
 nav:
