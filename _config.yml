@@ -31,7 +31,7 @@ excerpt_separator: "\n\n"
 permalink:     date
 paginate_path: /page:num
 timezone:      null
-
+url: scoft.github.io
 
 #Site config
 #title: 9leg
