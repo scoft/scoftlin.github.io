@@ -31,7 +31,6 @@ excerpt_separator: "\n\n"
 permalink:     date
 paginate_path: /page:num
 timezone:      null
-url: ""
 
 #Site config
 #title: 9leg
