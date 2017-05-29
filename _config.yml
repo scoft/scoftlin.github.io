@@ -14,7 +14,7 @@ encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 textile_ext:  "textile"
 baseurl: ""
-url: "scoft.github.io"
+url: ""
 
 # Filtering Content
 show_drafts:  null
