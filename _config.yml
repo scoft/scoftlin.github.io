@@ -44,7 +44,7 @@ timezone:      null
 #Nav config
 nav:
   - text: 首页
-    url: /index.html
+    url: /scoftlin.github.io/index.html
   - text: 分类目录 
     url: /categories.html
   - text: 文章归档
