@@ -46,9 +46,9 @@ nav:
   - text: 首页
     url: /scoftlin.github.io/index.html
   - text: 分类目录 
-    url: /categories.html
+    url: /scoftlin.github.io/categories.html
   - text: 文章归档
-    url: /archives.html
+    url: /scoftlin.github.io/archives.html
   #- text: 关于我
   #  url: /about.html
   
